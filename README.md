@@ -1,2 +1,3 @@
 # mongo-express-react-devprofile
-dev social media based on MERN Stack
+
+Social media network for developers based on MERN Stack
